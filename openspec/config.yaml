@@ -1,0 +1,26 @@
+schema: spec-driven
+
+context: |
+  Project: FXRScout — Foreign Exchange Rate Intelligence Dashboard for Sri Lanka
+  
+  Tech stack:
+  - Frontend: React 19, Vite 8, Tailwind CSS v4, Recharts, clsx
+  - Scraper: Node.js (ESM), Puppeteer, Cheerio, node-fetch
+  - Hosting: GitHub Pages (static, deployed via GitHub Actions)
+  - Data storage: JSON files committed to repo (no database)
+  - CI/CD: GitHub Actions (scrape.yml + deploy.yml)
+  
+  Architecture:
+  - data/latest.json — current snapshot of all bank rates (overwritten on each scrape run)
+  - data/history/YYYY-MM-DD.json — daily array of snapshots for trend charts
+  - scraper/ — standalone Node.js module with per-bank source files
+  - src/ — React app deployed to GitHub Pages
+  
+  Conventions:
+  - ESM modules throughout (type: module in package.json)
+  - scraper and frontend have separate package.json files
+  - Rate values use null (not 0 or undefined) when unavailable
+  - Currencies: USD, GBP, EUR, AED, SAR, INR, SGD, CAD, AUD, JPY, CNY, MYR
+  - Source names: CBSL, Market, BOC, People's, Commercial, HNB, Sampath
+  - CBSL and Market are reference-only sources (no buy/sell badging)
+
