@@ -1,0 +1,103 @@
+{
+  "updated": "2026-07-14T07:30:00.000Z",
+  "sources": {
+    "CBSL": {
+      "USD": { "buy": 300.50, "sell": 300.50, "mid": 300.50 },
+      "GBP": { "buy": 381.25, "sell": 381.25, "mid": 381.25 },
+      "EUR": { "buy": 326.75, "sell": 326.75, "mid": 326.75 },
+      "AED": { "buy": 81.85, "sell": 81.85, "mid": 81.85 },
+      "SAR": { "buy": 80.10, "sell": 80.10, "mid": 80.10 },
+      "INR": { "buy": 3.57, "sell": 3.57, "mid": 3.57 },
+      "SGD": { "buy": 224.50, "sell": 224.50, "mid": 224.50 },
+      "CAD": { "buy": 219.80, "sell": 219.80, "mid": 219.80 },
+      "AUD": { "buy": 193.45, "sell": 193.45, "mid": 193.45 },
+      "JPY": { "buy": 1.97, "sell": 1.97, "mid": 1.97 },
+      "CNY": { "buy": 41.30, "sell": 41.30, "mid": 41.30 },
+      "MYR": { "buy": 68.25, "sell": 68.25, "mid": 68.25 }
+    },
+    "Market": {
+      "USD": { "buy": null, "sell": null, "mid": 300.20 },
+      "GBP": { "buy": null, "sell": null, "mid": 380.90 },
+      "EUR": { "buy": null, "sell": null, "mid": 326.40 },
+      "AED": { "buy": null, "sell": null, "mid": 81.75 },
+      "SAR": { "buy": null, "sell": null, "mid": 80.05 },
+      "INR": { "buy": null, "sell": null, "mid": 3.56 },
+      "SGD": { "buy": null, "sell": null, "mid": 224.10 },
+      "CAD": { "buy": null, "sell": null, "mid": 219.40 },
+      "AUD": { "buy": null, "sell": null, "mid": 193.10 },
+      "JPY": { "buy": null, "sell": null, "mid": 1.96 },
+      "CNY": { "buy": null, "sell": null, "mid": 41.20 },
+      "MYR": { "buy": null, "sell": null, "mid": 68.10 }
+    },
+    "BOC": {
+      "USD": { "buy": 298.50, "sell": 303.75, "mid": null },
+      "GBP": { "buy": 379.00, "sell": 384.50, "mid": null },
+      "EUR": { "buy": 324.25, "sell": 329.50, "mid": null },
+      "AED": { "buy": 81.25, "sell": 82.50, "mid": null },
+      "SAR": { "buy": 79.50, "sell": 80.75, "mid": null },
+      "INR": { "buy": 3.54, "sell": 3.61, "mid": null },
+      "SGD": { "buy": 222.75, "sell": 226.25, "mid": null },
+      "CAD": { "buy": 217.50, "sell": 222.00, "mid": null },
+      "AUD": { "buy": 191.25, "sell": 195.75, "mid": null },
+      "JPY": { "buy": 1.95, "sell": 1.99, "mid": null },
+      "CNY": { "buy": 40.90, "sell": 41.65, "mid": null },
+      "MYR": { "buy": 67.75, "sell": 68.75, "mid": null }
+    },
+    "People's": {
+      "USD": { "buy": 297.75, "sell": 304.50, "mid": null },
+      "GBP": { "buy": 378.25, "sell": 385.25, "mid": null },
+      "EUR": { "buy": 323.50, "sell": 330.25, "mid": null },
+      "AED": { "buy": 81.10, "sell": 82.65, "mid": null },
+      "SAR": { "buy": 79.35, "sell": 80.90, "mid": null },
+      "INR": { "buy": 3.53, "sell": 3.62, "mid": null },
+      "SGD": { "buy": 222.25, "sell": 226.75, "mid": null },
+      "CAD": { "buy": 217.00, "sell": 222.50, "mid": null },
+      "AUD": { "buy": 190.75, "sell": 196.25, "mid": null },
+      "JPY": { "buy": 1.94, "sell": 2.00, "mid": null },
+      "CNY": { "buy": null, "sell": null, "mid": null },
+      "MYR": { "buy": null, "sell": null, "mid": null }
+    },
+    "Commercial": {
+      "USD": { "buy": 299.00, "sell": 303.25, "mid": null },
+      "GBP": { "buy": 379.50, "sell": 384.00, "mid": null },
+      "EUR": { "buy": 324.75, "sell": 329.00, "mid": null },
+      "AED": { "buy": 81.40, "sell": 82.35, "mid": null },
+      "SAR": { "buy": 79.65, "sell": 80.60, "mid": null },
+      "INR": { "buy": 3.55, "sell": 3.60, "mid": null },
+      "SGD": { "buy": 223.00, "sell": 226.00, "mid": null },
+      "CAD": { "buy": 217.75, "sell": 221.75, "mid": null },
+      "AUD": { "buy": 191.50, "sell": 195.50, "mid": null },
+      "JPY": { "buy": null, "sell": null, "mid": null },
+      "CNY": { "buy": 41.00, "sell": 41.55, "mid": null },
+      "MYR": { "buy": null, "sell": null, "mid": null }
+    },
+    "HNB": {
+      "USD": { "buy": 299.25, "sell": 303.00, "mid": null },
+      "GBP": { "buy": 379.75, "sell": 383.75, "mid": null },
+      "EUR": { "buy": 325.00, "sell": 328.75, "mid": null },
+      "AED": { "buy": 81.50, "sell": 82.25, "mid": null },
+      "SAR": { "buy": null, "sell": null, "mid": null },
+      "INR": { "buy": 3.55, "sell": 3.59, "mid": null },
+      "SGD": { "buy": 223.25, "sell": 225.75, "mid": null },
+      "CAD": { "buy": 218.00, "sell": 221.50, "mid": null },
+      "AUD": { "buy": 191.75, "sell": 195.25, "mid": null },
+      "JPY": { "buy": 1.96, "sell": 1.98, "mid": null },
+      "CNY": { "buy": null, "sell": null, "mid": null },
+      "MYR": { "buy": 67.90, "sell": 68.60, "mid": null }
+    },
+    "Sampath": {
+      "USD": { "buy": 298.00, "sell": 304.00, "mid": null },
+      "GBP": { "buy": 378.50, "sell": 385.00, "mid": null },
+      "EUR": { "buy": 323.75, "sell": 330.00, "mid": null },
+      "AED": { "buy": 81.15, "sell": 82.60, "mid": null },
+      "SAR": { "buy": 79.40, "sell": 80.85, "mid": null },
+      "INR": { "buy": 3.53, "sell": 3.62, "mid": null },
+      "SGD": { "buy": 222.50, "sell": 226.50, "mid": null },
+      "CAD": { "buy": 217.25, "sell": 222.25, "mid": null },
+      "AUD": { "buy": 191.00, "sell": 196.00, "mid": null },
+      "JPY": { "buy": 1.95, "sell": 1.99, "mid": null },
+      "CNY": { "buy": 40.95, "sell": 41.60, "mid": null },
+      "MYR": { "buy": 67.80, "sell": 68.70, "mid": null }
+    }
+  }
+}

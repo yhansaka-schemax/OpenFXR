@@ -1,0 +1,15 @@
+{
+  "name": "fxrscout-scraper",
+  "version": "1.0.0",
+  "description": "FX rate scraper for Sri Lankan banks",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "scrape": "node index.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.0.0"
+  }
+}
