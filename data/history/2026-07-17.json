@@ -437,5 +437,444 @@
         }
       }
     }
+  },
+  {
+    "updated": "2026-07-17T16:02:38.297Z",
+    "sources": {
+      "CBSL": {
+        "USD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "GBP": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "EUR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AED": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SAR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "INR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SGD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CAD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AUD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "JPY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CNY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "MYR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        }
+      },
+      "Market": {
+        "USD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "GBP": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "EUR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AED": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SAR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "INR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SGD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CAD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AUD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "JPY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CNY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "MYR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        }
+      },
+      "BOC": {
+        "USD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "GBP": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "EUR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AED": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SAR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "INR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SGD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CAD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AUD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "JPY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CNY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "MYR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        }
+      },
+      "People's": {
+        "USD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "GBP": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "EUR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AED": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SAR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "INR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SGD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CAD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AUD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "JPY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CNY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "MYR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        }
+      },
+      "Commercial": {
+        "USD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "GBP": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "EUR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AED": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SAR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "INR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SGD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CAD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AUD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "JPY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CNY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "MYR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        }
+      },
+      "HNB": {
+        "USD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "GBP": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "EUR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AED": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SAR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "INR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SGD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CAD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AUD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "JPY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CNY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "MYR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        }
+      },
+      "Sampath": {
+        "USD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "GBP": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "EUR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AED": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SAR": {
+          "buy": 146,
+          "sell": 9,
+          "mid": null
+        },
+        "INR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "SGD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CAD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "AUD": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "JPY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "CNY": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        },
+        "MYR": {
+          "buy": null,
+          "sell": null,
+          "mid": null
+        }
+      }
+    }
   }
 ]
